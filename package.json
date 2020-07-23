@@ -50,6 +50,7 @@
     "sofa-model": "^0.2.0",
     "superagent": "^5.2.2",
     "urlsafe-base64": "1.0.0",
+    "url-parse":"^1.4.7",
     "uuid": "^3.0.0"
   },
   "devDependencies": {
